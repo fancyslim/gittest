@@ -4,7 +4,7 @@ import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 /**
- * @version  git2.0
+ * @version  git3.0
  *
  */
 @SpringBootApplication
