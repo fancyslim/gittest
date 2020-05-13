@@ -7,5 +7,6 @@ package com.testgit.gittest.web;
 public class UserController {
     public static void main(String[] args) {
         System.out.println("bug fixed");
+        System.out.println("remote master");
     }
 }
