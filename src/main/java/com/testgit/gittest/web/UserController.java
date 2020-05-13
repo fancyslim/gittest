@@ -5,4 +5,7 @@ package com.testgit.gittest.web;
  * @date 2020/5/13 11:55
  */
 public class UserController {
+    public static void main(String[] args) {
+
+    }
 }
