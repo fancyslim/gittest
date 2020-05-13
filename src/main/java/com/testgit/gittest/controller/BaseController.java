@@ -5,4 +5,7 @@ package com.testgit.gittest.controller;
  * @date 2019/12/27 13:52
  */
 public class BaseController {
+    public static void main(String[] args) {
+
+    }
 }
