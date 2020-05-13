@@ -6,8 +6,6 @@ import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RestController;
 
 /**
- * git
- *
  * @author 吴凡
  * @date 2020/5/12 21:20
  */
